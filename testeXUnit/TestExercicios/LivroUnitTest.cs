@@ -21,11 +21,6 @@ namespace TestExercicios
             var numeroDeLivrosAposAdicionar = Livro.AdicionarLivro(livro);
 
             Assert.Equal(numeroDeLivrosEsperados, numeroDeLivrosAposAdicionar);
-
         }
-
-        
-
-        
     }
 }

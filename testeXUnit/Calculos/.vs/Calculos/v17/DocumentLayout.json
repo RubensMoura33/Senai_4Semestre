@@ -3,10 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\Calculos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE028D24-ADB4-497D-9678-D2285A9E2708}|..\\ExerciciosTest\\Exercicios.csproj|c:\\users\\50496884859\\desktop\\senai_4semestre\\testexunit\\exerciciostest\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9D7DF03-B6FB-4844-A0C4-FC94FA7B1D99}|..\\TestExercicios\\TestExercicios.csproj|c:\\users\\50496884859\\desktop\\senai_4semestre\\testexunit\\testexercicios\\inventariounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D7DF03-B6FB-4844-A0C4-FC94FA7B1D99}|..\\TestExercicios\\TestExercicios.csproj|c:\\users\\50496884859\\desktop\\senai_4semestre\\testexunit\\testexercicios\\temperaturaunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE028D24-ADB4-497D-9678-D2285A9E2708}|..\\ExerciciosTest\\Exercicios.csproj|c:\\users\\50496884859\\desktop\\senai_4semestre\\testexunit\\exerciciostest\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9D7DF03-B6FB-4844-A0C4-FC94FA7B1D99}|..\\TestExercicios\\TestExercicios.csproj|c:\\users\\50496884859\\desktop\\senai_4semestre\\testexunit\\testexercicios\\livrounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE028D24-ADB4-497D-9678-D2285A9E2708}|..\\ExerciciosTest\\Exercicios.csproj|c:\\users\\50496884859\\desktop\\senai_4semestre\\testexunit\\exerciciostest\\temperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE028D24-ADB4-497D-9678-D2285A9E2708}|..\\ExerciciosTest\\Exercicios.csproj|c:\\users\\50496884859\\desktop\\senai_4semestre\\testexunit\\exerciciostest\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE028D24-ADB4-497D-9678-D2285A9E2708}|..\\ExerciciosTest\\Exercicios.csproj|c:\\users\\50496884859\\desktop\\senai_4semestre\\testexunit\\exerciciostest\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D7DF03-B6FB-4844-A0C4-FC94FA7B1D99}|..\\TestExercicios\\TestExercicios.csproj|c:\\users\\50496884859\\desktop\\senai_4semestre\\testexunit\\testexercicios\\emailunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9658184F-882F-4E75-A853-A03667085A50}|..\\Calculos.Test\\Calculos.Test.csproj|c:\\users\\50496884859\\desktop\\senai_4semestre\\testexunit\\calculos.test\\calculounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -14,15 +32,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E7C12794-7ED0-41A0-B381-049E42732801}|Calculos.csproj|c:\\users\\50496884859\\desktop\\senai_4semestre\\testexunit\\calculos\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7C12794-7ED0-41A0-B381-049E42732801}|Calculos.csproj|solutionrelative:calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9D7DF03-B6FB-4844-A0C4-FC94FA7B1D99}|..\\TestExercicios\\TestExercicios.csproj|c:\\users\\50496884859\\desktop\\senai_4semestre\\testexunit\\testexercicios\\inventariounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9D7DF03-B6FB-4844-A0C4-FC94FA7B1D99}|..\\TestExercicios\\TestExercicios.csproj|c:\\users\\50496884859\\desktop\\senai_4semestre\\testexunit\\testexercicios\\emailunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9D7DF03-B6FB-4844-A0C4-FC94FA7B1D99}|..\\TestExercicios\\TestExercicios.csproj|c:\\users\\50496884859\\desktop\\senai_4semestre\\testexunit\\testexercicios\\temperaturaunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7C12794-7ED0-41A0-B381-049E42732801}|Calculos.csproj|c:\\users\\50496884859\\desktop\\senai_4semestre\\testexunit\\calculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -36,89 +45,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\ExerciciosTest\\Inventario.cs",
+              "RelativeDocumentMoniker": "..\\ExerciciosTest\\Inventario.cs",
+              "ToolTip": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\ExerciciosTest\\Inventario.cs",
+              "RelativeToolTip": "..\\ExerciciosTest\\Inventario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:50:53.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Temperatura.cs",
+              "DocumentMoniker": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\ExerciciosTest\\Temperatura.cs",
+              "RelativeDocumentMoniker": "..\\ExerciciosTest\\Temperatura.cs",
+              "ToolTip": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\ExerciciosTest\\Temperatura.cs",
+              "RelativeToolTip": "..\\ExerciciosTest\\Temperatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:30:01.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\ExerciciosTest\\Email.cs",
+              "RelativeDocumentMoniker": "..\\ExerciciosTest\\Email.cs",
+              "ToolTip": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\ExerciciosTest\\Email.cs",
+              "RelativeToolTip": "..\\ExerciciosTest\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:11:26.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Livro.cs",
               "DocumentMoniker": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\ExerciciosTest\\Livro.cs",
               "RelativeDocumentMoniker": "..\\ExerciciosTest\\Livro.cs",
               "ToolTip": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\ExerciciosTest\\Livro.cs",
               "RelativeToolTip": "..\\ExerciciosTest\\Livro.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAeAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T13:24:19.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "EmailUnitTest.cs",
               "DocumentMoniker": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\TestExercicios\\EmailUnitTest.cs",
               "RelativeDocumentMoniker": "..\\TestExercicios\\EmailUnitTest.cs",
               "ToolTip": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\TestExercicios\\EmailUnitTest.cs",
               "RelativeToolTip": "..\\TestExercicios\\EmailUnitTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T13:23:18.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TemperaturaUnitTest.cs",
-              "DocumentMoniker": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\TestExercicios\\TemperaturaUnitTest.cs",
-              "RelativeDocumentMoniker": "..\\TestExercicios\\TemperaturaUnitTest.cs",
-              "ToolTip": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\TestExercicios\\TemperaturaUnitTest.cs",
-              "RelativeToolTip": "..\\TestExercicios\\TemperaturaUnitTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T13:23:07.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InventarioUnitTest.cs",
-              "DocumentMoniker": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\TestExercicios\\InventarioUnitTest.cs",
-              "RelativeDocumentMoniker": "..\\TestExercicios\\InventarioUnitTest.cs",
-              "ToolTip": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\TestExercicios\\InventarioUnitTest.cs",
-              "RelativeToolTip": "..\\TestExercicios\\InventarioUnitTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T13:22:47.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LivroUnitTest.cs",
               "DocumentMoniker": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\TestExercicios\\LivroUnitTest.cs",
               "RelativeDocumentMoniker": "..\\TestExercicios\\LivroUnitTest.cs",
               "ToolTip": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\TestExercicios\\LivroUnitTest.cs",
               "RelativeToolTip": "..\\TestExercicios\\LivroUnitTest.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA9AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T13:20:16.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "TemperaturaUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\TestExercicios\\TemperaturaUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\TestExercicios\\TemperaturaUnitTest.cs",
+              "ToolTip": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\TestExercicios\\TemperaturaUnitTest.cs",
+              "RelativeToolTip": "..\\TestExercicios\\TemperaturaUnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:23:07.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventarioUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\TestExercicios\\InventarioUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\TestExercicios\\InventarioUnitTest.cs",
+              "ToolTip": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\TestExercicios\\InventarioUnitTest.cs",
+              "RelativeToolTip": "..\\TestExercicios\\InventarioUnitTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:22:47.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CalculoUnitTest.cs",
               "DocumentMoniker": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\Calculos.Test\\CalculoUnitTest.cs",
               "RelativeDocumentMoniker": "..\\Calculos.Test\\CalculoUnitTest.cs",
               "ToolTip": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\Calculos.Test\\CalculoUnitTest.cs",
               "RelativeToolTip": "..\\Calculos.Test\\CalculoUnitTest.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCwAAAAMAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAzwCwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T12:07:58.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T12:07:58.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Calculo.cs",
               "DocumentMoniker": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\Calculos\\Calculo.cs",
               "RelativeDocumentMoniker": "Calculo.cs",
@@ -126,12 +173,11 @@
               "RelativeToolTip": "Calculo.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAADwvwsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:54:38.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T11:54:38.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\testeXUnit\\Calculos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -139,8 +185,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:52:53.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T11:52:53.526Z"
             }
           ]
         }
