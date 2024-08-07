@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\50496884859\\Desktop\\TesteAPI\\TesteAPIProduct\\testApi\\testApi.csproj": {}
+    "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\TesteAPIProduct\\testApi\\testApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\50496884859\\Desktop\\TesteAPI\\TesteAPIProduct\\testApi\\testApi.csproj": {
+    "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\TesteAPIProduct\\testApi\\testApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\50496884859\\Desktop\\TesteAPI\\TesteAPIProduct\\testApi\\testApi.csproj",
+        "projectUniqueName": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\TesteAPIProduct\\testApi\\testApi.csproj",
         "projectName": "testApi",
-        "projectPath": "C:\\Users\\50496884859\\Desktop\\TesteAPI\\TesteAPIProduct\\testApi\\testApi.csproj",
+        "projectPath": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\TesteAPIProduct\\testApi\\testApi.csproj",
         "packagesPath": "C:\\Users\\50496884859\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\50496884859\\Desktop\\TesteAPI\\TesteAPIProduct\\testApi\\obj\\",
+        "outputPath": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\TesteAPIProduct\\testApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\50496884859\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\50496884859\\Desktop\\TesteAPI\\TesteAPIProduct\\TesteAPIProduct\\TesteAPIProduct.csproj": {
-                "projectPath": "C:\\Users\\50496884859\\Desktop\\TesteAPI\\TesteAPIProduct\\TesteAPIProduct\\TesteAPIProduct.csproj"
+              "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\TesteAPIProduct\\TesteAPIProduct\\TesteAPIProduct.csproj": {
+                "projectPath": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\TesteAPIProduct\\TesteAPIProduct\\TesteAPIProduct.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\50496884859\\Desktop\\TesteAPI\\TesteAPIProduct\\TesteAPIProduct\\TesteAPIProduct.csproj": {
+    "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\TesteAPIProduct\\TesteAPIProduct\\TesteAPIProduct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\50496884859\\Desktop\\TesteAPI\\TesteAPIProduct\\TesteAPIProduct\\TesteAPIProduct.csproj",
+        "projectUniqueName": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\TesteAPIProduct\\TesteAPIProduct\\TesteAPIProduct.csproj",
         "projectName": "TesteAPIProduct",
-        "projectPath": "C:\\Users\\50496884859\\Desktop\\TesteAPI\\TesteAPIProduct\\TesteAPIProduct\\TesteAPIProduct.csproj",
+        "projectPath": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\TesteAPIProduct\\TesteAPIProduct\\TesteAPIProduct.csproj",
         "packagesPath": "C:\\Users\\50496884859\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\50496884859\\Desktop\\TesteAPI\\TesteAPIProduct\\TesteAPIProduct\\obj\\",
+        "outputPath": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\TesteAPIProduct\\TesteAPIProduct\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\50496884859\\AppData\\Roaming\\NuGet\\NuGet.Config",

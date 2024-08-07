@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V3tmKs+7pC9SGk+YGvt/+zGojnKKIEw93R/4d/bH1/f7TPAzRJzsHJy6bfgi38PvPMqCFbIDrziSEL0vvPxg9w==",
+  "dgSpecHash": "v8qc9N4OC8Mn2Z1oZIx5ecrMcF3cUy9czDvtBA35DXmx3igMQ8dUSDPpRUxQ15azRSBcgNfVb8pm4unAmYqiQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\50496884859\\Desktop\\TesteAPI\\TesteAPIProduct\\testApi\\testApi.csproj",
+  "projectFilePath": "C:\\Users\\50496884859\\Desktop\\Senai_4Semestre\\TesteAPIProduct\\testApi\\testApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\50496884859\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\50496884859\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

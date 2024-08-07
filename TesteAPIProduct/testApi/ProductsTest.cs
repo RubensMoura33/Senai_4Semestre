@@ -110,6 +110,36 @@ namespace testApi
             Assert.Equal(3, result.Count);
             Assert.DoesNotContain(result, p => p.IdProduct == productIdToDelete);
         }
+
+
+        [Fact]
+        public void Update()
+        {
+            var productIdToUpdate = Guid.NewGuid();
+            var productList = new List<Products>
+    {
+        new Products {IdProduct = productIdToUpdate, Name = "Produto 10", Price = 10},
+    };
+
+            var mockRepository = new Mock<IProductRepository>();
+
+            mockRepository.Setup(x => x.Update(It.IsAny<Guid>(), It.IsAny<Products>()))
+                .Callback<Guid, Products>((id, product) =>
+                {
+                    var productToUpdate = productList.FirstOrDefault(p => p.IdProduct == id);
+                    productToUpdate.Name = product.Name;
+                    productToUpdate.Price = product.Price;
+                });
+
+            var updatedProduct = new Products { IdProduct = productIdToUpdate, Name = "Produto Atualizado", Price = 50 };
+
+            mockRepository.Object.Update(productIdToUpdate, updatedProduct);
+
+            var result = productList.FirstOrDefault(p => p.IdProduct == productIdToUpdate);
+
+            Assert.Equal("Produto Atualizado", result.Name);
+            Assert.Equal(50, result.Price);
+        }
     }
     
 }
